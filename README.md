@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I am Ananya 
 
-<!--
-**ananyas001/ananyas001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am a CSE student passionate about designing, coding and solving problems.
+- 🌱 I’m currently learning Java, React, ML basics and DSA
+- 📚 Im always open to build impactful projects and grow my skills 
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+- Languages: Java | Python | JavaScript | C  
+- Frontend: HTML | CSS | React | TailwindCSS  
+- Databases: MySQL | MongoDB (learning)  
+- Tools: VS Code  
